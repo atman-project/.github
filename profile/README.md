@@ -8,6 +8,6 @@ I can't say that the current Web is corrupted, but today's Web is intrusive. Com
 
 The Web can be simple. The Web can be like the physical world where we live. The Web doesn't need to inundate us with more information and stimuli than we can handle. We want to talk with someone I want to speak with in the real world. We want to obtain information that we really need and can handle. That is enough because that is how humans live on the Earth. 
 
-Of course, the Web and the Internet must be maintained as the sea of information that enriches our lives but shouldn't give us an illusion that we can be supermans who can do what we cannot do in the real world easily without paying anything. The Web shouldn't be bloated to provide this illusion with more people faster. 
+Of course, the Web and the Internet must be maintained as the sea of information that enriches our life but shouldn't give us an illusion that we can be supermans who can do anything that we cannot do in the real world easily without paying anything. The Web shouldn't be bloated to provide this illusion with more people faster. 
 
 We can build a minimal but optimal Web that doesn't require our privacy and time. Instead, we should be able to get more power from the Web only after we pay our fair share. This change will help us recognize our real world, not the intrusive Web. This will stop us from consuming nature with the excuse that we are developing the world. Ultimately, this will help us take care of ourselves, not people on the Web whom we don't know.
