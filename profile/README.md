@@ -6,7 +6,7 @@ Atman Project starts from a doubt about this assumption. We may actually not nee
 
 I can't say that the current Web is corrupted, but today's Web is intrusive. Companies who maintain the Web with the business model mentioned above must inevitably make the Web bigger and more complex to handle more users, traffic, and complicated use cases. These developments consume tons of energy from humans, nature, and time. These are the ways they keep making revenue with a sweet sentence that they are making the world a better place. But, we must rethink whether these efforts are necessary for us.
 
-The Web can be simple. The Web can be like the physical world where we live. The Web doesn't need to inundate us with more information and stimuli than we can handle. We want to talk with someone I want to speak with in the real world. We want to obtain information that we really need and can handle. That is enough because that is how humans live on Earth. 
+The Web can be simple. The Web can be like the physical world where we live. The Web doesn't need to inundate us with more information and stimuli than we can handle. We want to talk with someone I want to speak with in the real world. We want to obtain information that we really need and can handle. That is enough because that is how humans live on the Earth. 
 
 Of course, the Web and the Internet must be maintained as the sea of information that enriches our lives but shouldn't give us an illusion that we can be supermans who can do what we cannot do in the real world easily without paying anything. The Web shouldn't be bloated to provide this illusion with more people faster. 
 
