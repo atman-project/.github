@@ -11,3 +11,18 @@ The Web can be simple. The Web can be like the physical world where we live. The
 Of course, the Web and the Internet must be maintained as the sea of information that enriches our life, but shouldn't give us an illusion that we can be supermans who can do anything that we cannot do in the real world easily without paying anything. The Web shouldn't be bloated to provide this illusion with more people faster. 
 
 We can build a minimal but optimal Web that doesn't require our privacy and time. Instead, we should be able to get more power from the Web only after we pay our fair share. This change will help us recognize our real world, not the intrusive Web. This will stop us from consuming nature with the excuse that we are developing the world. Ultimately, this will help us taking care of ourselves, not people on the Web whom we don't know.
+
+## Products
+
+### Universal Personal Data Sync/Backup
+
+Similar as iCloud, but without any centralized authority. Users should be able to have the seamless experience between their multiple devices without storing their personal data in the cloud storage that a centralized authority manages its funtionalities, policies, and costs, even though the authority guarantees that user data is always stored securely. This is the essential part of the permanent web for users, which can be sustained even if big tech companies stop their business someday. 
+
+User-end decentralized applications should be able to sync user's personal data between the user's devices seemlessly. This data sync/backup can be done with peer-to-peer networking. Users should be able to choose to run their own node if they want. Or, they should be able to use nodes operated by others without comprimising privacy, but with paying compensations to them. 
+
+Data should be basically stored in user's personal devices, even if data is delivered by decentralized peer-to-peer network through some of nodes operated by others, especially when user's devices are not reachable directly from the Internet.
+
+### Universal Verifiable Personal Data Sharing
+
+Similar as the `Share` button in iOS or Android mobile devices, but with the explicitly-managed data sharing history. This can be done by cryptographic signatures/encryption, zero-knowledge proof, and decentralized ledgers. Data shared on the Internet should be shaped by standard data sharing protocols, so that anyone can keep tracking of who created the data initially and whom the data has been shared with. Also, this cryptographic history should be able to be used to detect and punish any malicious behaviour on the data.
+
