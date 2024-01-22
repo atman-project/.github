@@ -26,3 +26,10 @@ Data should be basically stored in user's personal devices, even if data is deli
 
 Similar as the `Share` button in iOS or Android mobile devices, but with the explicitly-managed data sharing history. This can be done by cryptographic signatures/encryption, zero-knowledge proof, and decentralized ledgers. Data shared on the Internet should be shaped by standard data sharing protocols, so that anyone can keep tracking of who created the data initially and whom the data has been shared with. Also, this cryptographic history should be able to be used to detect and punish any malicious behaviour on the data.
 
+### Personal Data Publishing 
+
+Various Web3 infrastructures and frameworks enable users publish their data to the public Web without relying on centralized authorities. But still, it is not easy for end-users and even for application developers to shape their architecture to work with decentralized infrastructures. Atman Project should be able to fill in missing parts between applications in production and decentralized infrastructures, so that users can publish their posts, images, and videos, as if they have done in the traditional web.
+
+### Mobile connectivity
+
+The great advantage of decentralized peer-to-peer network is enabling mobile devices work as indenpendant decentralized nodes. Also, even a small laptop in home network can act as a decentralized node. However, there are still many challenging areas that need to be improved for better availability and performance. This is the fundamental part for all products introduced above. Atman Project is going to collaborate with many players who are crafting decentralized network infrastructure, and contribute to them in order to boosting the future of decentralized web.
