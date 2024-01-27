@@ -16,7 +16,7 @@ We can build a minimal but optimal Web that doesn't require our privacy and time
 
 ### Universal Personal Data Sync/Backup
 
-Similar as iCloud, but without any centralized authority. Users should be able to have the seamless experience between their multiple devices without storing their personal data in the cloud storage that a centralized authority manages its funtionalities, policies, and costs, even though the authority guarantees that user data is always stored securely. This is the essential part of the permanent web for users, which can be sustained even if big tech companies stop their business someday. 
+Similar as iCloud, but without any centralized authority. Users should be able to have the seamless experience between their multiple devices without storing their personal data in the cloud storage that a centralized authority manages its funtionalities, policies, and costs, even if the authority guarantees that user data is always stored securely. This is the essential part of the permanent web for users, which can be sustained even if big tech companies stop their business someday. 
 
 User-end decentralized applications should be able to sync user's personal data between the user's devices seemlessly. This data sync/backup can be done with peer-to-peer networking. Users should be able to choose to run their own node if they want. Or, they should be able to use nodes operated by others without comprimising privacy, but with paying compensations to them. 
 
