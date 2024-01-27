@@ -24,7 +24,7 @@ Data should be basically stored in user's personal devices, even if data is deli
 
 ### Universal Verifiable Personal Data Sharing
 
-Similar as the `Share` button in iOS or Android mobile devices, but with the explicitly-managed data sharing history. This can be done by cryptographic signatures/encryption, zero-knowledge proof, and decentralized ledgers. Data shared on the Internet should be shaped by standard data sharing protocols, so that anyone can keep tracking of who created the data initially and whom the data has been shared with. Also, this cryptographic history should be able to be used to detect and punish any malicious behaviour on the data.
+Similar as the `Share` button in iOS or Android mobile devices, but with the explicitly-managed data sharing history. This can be done by cryptographic signatures/encryption, zero-knowledge proof, and decentralized ledgers. Data shared on the Internet should be shaped by standard data sharing protocols, so that anyone can keep track of the history - who created the data initially and whom the data has been shared with. Also, this cryptographic history should be able to be used to detect and punish any malicious behaviour on the data.
 
 ### Personal Data Publishing 
 
