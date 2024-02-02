@@ -12,6 +12,11 @@ Of course, the Web and the Internet must be maintained as the sea of information
 
 We can build a minimal but optimal Web that doesn't require our privacy and time. Instead, we should be able to get more power from the Web only after we pay our fair share. This change will help us recognize our real world, not the intrusive Web. This will stop us from consuming nature with the excuse that we are developing the world. Ultimately, this will help us taking care of ourselves, not people on the Web whom we don't know.
 
+## Pursuits
+
+- Low switching cost
+- 
+
 ## Products
 
 ### Universal Personal Data Sync/Backup
