@@ -17,13 +17,18 @@ We can build a minimal but optimal Web that doesn't require our privacy and time
 - Low switching cost
 - 
 
-## Products
+## Protocols
+
+Atman Project consists of several protocols. Each protocol targets its unique goals, but all ultimately pursue the same values.
 
 ### Universal Personal Data Sync/Backup
 
+Universal data sync is one of the core protocols. Atman Project aims to define the universal data representations, so any end-user services built on top of Atman Project can serve the same quality of data privacy, security, and soundness.
+As the first piece of Atman Project, the universal data sync protocol defines a core personal data availability layer for users to maintain their data on their own and publish it through multiple applications that they really want to use, in the secure and sustainable way.
+
 Similar as iCloud, but without any centralized authority. Users should be able to have the seamless experience between their multiple devices without storing their personal data in the cloud storage that a centralized authority manages its funtionalities, policies, and costs, even if the authority guarantees that user data is always stored securely. This is the essential part of the permanent web for users, which can be sustained even if big tech companies stop their business someday. 
 
-User-end decentralized applications should be able to sync user's personal data between the user's devices seemlessly. This data sync/backup can be done with peer-to-peer networking. Users should be able to choose to run their own node if they want. Or, they should be able to use nodes operated by others without comprimising privacy, but with paying compensations to them. 
+End-user decentralized applications should be able to sync user's personal data between the user's devices seemlessly. This data sync/backup can be done with peer-to-peer networking. Users should be able to choose to run their own node if they want. Or, they should be able to use nodes operated by others without comprimising privacy, but with paying compensations to them. 
 
 Data should be basically stored in user's personal devices, even if data is delivered by decentralized peer-to-peer network through some of nodes operated by others, especially when user's devices are not reachable directly from the Internet.
 
