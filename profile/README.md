@@ -34,6 +34,8 @@ Data should be basically stored in user's personal devices, even if data is deli
 
 ### Universal Verifiable Personal Data Sharing
 
+In the modern web where there are many contents produced in multiple ways that we have never imagined so far, it is very important to express what we think in trustworthy ways. The universal verifiable data sharing protocol defines the way how to prove that I produced the data and whom the data has been shared with, without relying on any centralized environments.
+
 Similar as the `Share` button in iOS or Android mobile devices, but with the explicitly-managed data sharing history. This can be done by cryptographic signatures/encryption, zero-knowledge proof, and decentralized ledgers. Data shared on the Internet should be shaped by standard data sharing protocols, so that anyone can keep track of the history - who created the data initially and whom the data has been shared with. Also, this cryptographic history should be able to be used to detect and punish any malicious behaviour on the data.
 
 ### Personal Data Publishing 
