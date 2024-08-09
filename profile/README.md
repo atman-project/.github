@@ -1,23 +1,26 @@
 # Atman Project
 
-In 2023, everyone uses the Web every day for almost everything. We talk, learn, enjoy, and live on the Web these days. In addition, we tend to expand the role of the Web more and more with an assumption that the Web will make our world better. 
+## Rethinking the Web
 
-Atman Project starts from a doubt about this assumption. We may actually not need the Web that does everything for us. We have been living in a world that is visible, physical, and real. This will remain the same in the future. Also, the Web is not for free. The common misunderstanding that many people have is that the Web is free because we do not pay fees explicitly for most of the services on the Web. However, nothing is free in our world. We implicitly pay something to the service providers, such as our data, privacy, and time. 
+The Web has become an integral part of our daily lives. We communicate, learn, entertain, and even exist through it. As the Web continues to evolve, there is a pervasive belief that expanding its role will inevitably make our world better.
 
-I can't say that the current Web is corrupted, but today's Web is intrusive. Companies who maintain the Web with the business model mentioned above must inevitably make the Web bigger and more complex to handle more users, traffic, and complicated use cases. These developments consume tons of energy from humans, nature, and time. These are the ways they keep making revenue with a sweet sentence that they are making the world a better place. But, we must rethink whether these efforts are really necessary for us.
+The Atman Project arises from this question: Do we really need the Web to expand in its current direction? Expanding the Web isn’t without cost. The common misconception is that the Web is free because many services require no direct payment. However, nothing in our world is truly free. We implicitly trade our data, privacy, and time for the convenience the Web offers.
 
-The Web can be simple. The Web can be like the physical world where we live. The Web doesn't need to inundate us with more information and stimuli than we can handle. We want to talk with someone whom I want to speak with in the real world. We want to obtain information that we really need and can handle. That would be enough because that is how human lives on the Earth. 
+While I wouldn’t say the Web is corrupted, it has certainly become intrusive. Companies that sustain the Web with their profit-driven models are compelled to expand it, making it larger and more complex to accommodate increasing users, traffic, and multifaceted use cases. This growth consumes vast amounts of human energy, natural resources, and time. They continue to generate revenue under the guise of making the world a better place, but we must critically assess whether these efforts are truly necessary.
 
-Of course, the Web and the Internet must be maintained as the sea of information that enriches our life, but shouldn't give us an illusion that we can be supermans who can do anything that we cannot do in the real world easily without paying anything. The Web shouldn't be bloated to provide this illusion with more people faster. 
+The Web doesn’t have to be this way. It can be simple. It can resemble the physical world we inhabit — a world where we aren’t overwhelmed with excessive information and stimuli. Imagine a Web where we only interact with those we wish to engage with, and where we access information that is truly relevant and manageable. This would be sufficient because that is how we live in the real world.
 
-We can build a minimal but optimal Web that doesn't require our privacy and time. Instead, we should be able to get more power from the Web only after we pay our fair share. This change will help us recognize our real world, not the intrusive Web. This will stop us from consuming nature with the excuse that we are developing the world. Ultimately, this will help us taking care of ourselves, not people on the Web whom we don't know.
+Of course, the Web and the Internet should continue to serve as vast reservoirs of knowledge that enrich our lives. But they should not delude us into thinking we can become superhuman, capable of accomplishing anything effortlessly and without cost. The Web shouldn’t be bloated to perpetuate this illusion faster and to more people.
 
-## Pursuits
+We have the potential to build a minimal yet optimal Web—one that respects our privacy and time. In this vision, the Web would offer greater power and utility, but only when we consciously choose to contribute our fair share. This change would reorient us towards recognizing and valuing the real world, rather than becoming lost in an intrusive digital one. It would reduce the environmental toll we justify in the name of progress. Ultimately, this approach would help us focus on caring for ourselves and our tangible communities, rather than investing in the lives of strangers online.
 
-- Low switching cost
-- 
+## Objective
 
-## Protocols
+Atman Project hopes that Internet users can easily control who can access to their data.
+
+Users should be able to continuously track and control access to all the data I shared or published through the internet. This capability should not be dependent on specific service providers, applications, or platforms. Regardless of which storage, application, or vendor I use to publish my data, that data should be entirely under my control (or someone authorized by me). The current architecture of the Web may not be well-suited for this goal. The Atman Project is focused on designing and implementing the essential, feasible protocols to achieve this objective.
+
+## WIP: Protocols
 
 Atman Project consists of several protocols. Each protocol targets its unique goals, but all ultimately pursue the same values.
 
