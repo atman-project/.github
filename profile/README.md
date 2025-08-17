@@ -8,8 +8,10 @@ Software shifts.
 Your data shouldn’t.
 Keep what matters.
 
-## Atman supports
+## We support
 
 - Local-first Software
 - Universal Version Control
 - Malleable Software
+
+We found that our vision closely resonates with the ideas pursued by [Ink & Switch](https://www.inkandswitch.com/). Inspired by their research, we are committed to turning these ideas into practices that create tangible impact for users.
