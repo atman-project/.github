@@ -17,4 +17,7 @@ Keep what matters.
 - Malleable Software
   - Simple tools, infinite composability
 
-We found that our vision closely resonates with the ideas pursued by [Ink & Switch](https://www.inkandswitch.com/). Inspired by their research, we are committed to turning these ideas into practices that create tangible impact for users.
+## Related Work
+
+We share common ground with the following projects:
+- [Ink & Switch](https://www.inkandswitch.com/)
