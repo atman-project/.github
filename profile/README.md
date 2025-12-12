@@ -12,12 +12,8 @@ Keep what matters.
 
 - Local-first Software
   - Stay with data, shift the software
-- Universal Version Control
-  - History for everything, across all software
 - Malleable Software
   - Simple tools, infinite composability
+- Version Control
+  - History for everything, across all software
 
-## Related Work
-
-We share common ground with the following projects:
-- [Ink & Switch](https://www.inkandswitch.com/)
