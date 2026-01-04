@@ -17,3 +17,8 @@ Keep what matters.
   - From docs to apps
 - Version Control
   - History for everything, across all software
+
+## Sub-projects
+
+- Atman: Universal peer-to-peer sync engine
+- Blacksmith: Doc-to-app framework
