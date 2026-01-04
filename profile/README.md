@@ -8,7 +8,7 @@ Software shifts.
 Your data shouldn’t.
 Keep what matters.
 
-## Goals
+## Values
 
 - Local-first Software
   - Stay with data, shift the software
@@ -22,3 +22,8 @@ Keep what matters.
 
 - Atman: Universal peer-to-peer sync engine
 - Blacksmith: Doc-to-app framework
+
+## Related Work
+
+We share common ground with the following projects:
+- [Ink & Switch](https://www.inkandswitch.com/)
