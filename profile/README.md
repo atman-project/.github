@@ -17,6 +17,8 @@ Keep what matters.
   - From docs to apps
 - Version Control
   - History for everything, across all software
+- Data ownership
+  - Own and prove your data
 
 ## Sub-projects
 
